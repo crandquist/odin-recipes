@@ -13,11 +13,11 @@ To view the website locally, open `index.html` in your preferred web browser. Th
 ### Directory Structure
 The project directory is organized as follows:
 ```/Odin_Recipes
-|- index.html
-|- recipes
-|  |- chicken_club_pasta_salad.html
-|  |- rotisserie_chicken.html
-|  |- white_chocolate_raspberry_cheesecake.html
+|-- index.html
+|-- recipes
+|   |-- chicken_club_pasta_salad.html
+|   |-- rotisserie_chicken.html
+|   |-- white_chocolate_raspberry_cheesecake.html
 ```
 ## Contributing
 If you wish to contribute to this project, please follow these steps:
