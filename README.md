@@ -12,14 +12,13 @@ The project consists of a main page that links to individual recipe pages. Each 
 To view the website locally, open `index.html` in your preferred web browser. This will display the main page with links to the recipes.
 ### Directory Structure
 The project directory is organized as follows:
-`
-/Odin_Recipes
+```/Odin_Recipes
 |- index.html
 |- recipes
 |  |- chicken_club_pasta_salad.html
 |  |- rotisserie_chicken.html
 |  |- white_chocolate_raspberry_cheesecake.html
-`
+```
 ## Contributing
 If you wish to contribute to this project, please follow these steps:
 1. Fork the repository.
